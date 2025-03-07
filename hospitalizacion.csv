@@ -1,0 +1,8 @@
+﻿"#","Area","Tipo","ID","Nombre","Costo","Valor"
+"1","Hospitalizacion","Otros","00017","Hospitalizacion mayor a 30 kilos","160000","250000"
+"2","Hospitalizacion","Otros","0013","Hospitalización Perro menor a 10 Kilos ","100000","140000"
+"3","Hospitalizacion","Otros","0014","Hospitalizacion Perro mayor a 10 kilos","120000","160000"
+"4","Hospitalizacion","Otros","0015","Hospitalizacion Perro mayor a 20 kilos","140000","180000"
+"5","Hospitalizacion","Otros","0016","Hospitalizacion Felinos","100000","120000"
+"6","Hospitalizacion","Otros","0018","FLUIDOTERAPIA CANINOS","50000","70000"
+"7","Hospitalizacion","Otros","0019","FLUIDOTERAPIA FELINOS","50000","60000"
